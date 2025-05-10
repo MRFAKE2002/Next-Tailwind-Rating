@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 //! Box Icons
-import "boxicons/css/boxicons.mini.css";
+import "boxicons/css/boxicons.min.css";
 
 export const metadata: Metadata = {
   title: "Create Next App",
